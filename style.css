@@ -870,7 +870,7 @@ body.dark .contact a {
         grid-template-columns: 1fr;
         text-align: center;
         gap: 2rem;
-        padding: 3rem 1rem 0 1rem;
+        padding: 5rem 1rem 0 1rem;
     }
     
     .hero-title {
@@ -897,8 +897,10 @@ body.dark .contact a {
     .btn-primary,
     .btn-outline {
         width: 100%;
-        max-width: 280px;
+        max-width: 320px;
         text-align: center;
+        padding: 0.7rem 0.8rem;
+        font-size: 0.75rem;
     }
     
     .hero-stats {
