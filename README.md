@@ -99,7 +99,7 @@ To customize for your own use:
 ## 📞 Contact
 
 - **Email:** rahulraval2912@gmail.com
-- **LinkedIn:** [linkedin.com/in/rahul-raval-2912](https://linkedin.com/in/rahul-raval-2912)
+- **LinkedIn:** [linkedin.com/in/rahul-raval-2912](https://www.linkedin.com/in/rahul-raval-27a5a932a/)
 - **GitHub:** [github.com/Rahul-Raval-2912](https://github.com/Rahul-Raval-2912)
 
 ## 📝 License
